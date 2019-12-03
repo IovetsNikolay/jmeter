@@ -1,0 +1,13 @@
+target
+logs
+.gitignore
+.idea
+.dockerignore
+out
+.git
+Users
+README.md
+surefire-reports
+Dockerfile
+.DS_Store
+

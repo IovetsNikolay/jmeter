@@ -1,0 +1,143 @@
+2019-09-13 16:38:36,154 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-09-13 16:38:36,182 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/4.0/libexec/bin/user.properties
+2019-09-13 16:38:36,183 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/4.0/libexec/bin/system.properties
+2019-09-13 16:38:36,192 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: Version 4.0 r1823414
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: java.version=1.8.0_181
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: os.arch=x86_64
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: os.version=10.14
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-09-13 16:38:36,193 INFO o.a.j.JMeter: Available Processors =4
+2019-09-13 16:38:36,196 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-09-13 16:38:36,197 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-09-13 16:38:36,197 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/4.0/libexec
+2019-09-13 16:38:36,197 INFO o.a.j.JMeter: user.dir  =/Users/pavelbairov/Documents/Projects/jmeter-docker
+2019-09-13 16:38:36,198 INFO o.a.j.JMeter: PWD       =/Users/pavelbairov/Documents/Projects/jmeter-docker
+2019-09-13 16:38:36,202 INFO o.a.j.JMeter: IP: 172.16.9.26 Name: bairov FullName: bairov
+2019-09-13 16:38:38,346 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-09-13 16:38:38,364 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-09-13 16:38:38,364 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-09-13 16:38:38,460 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-09-13 16:38:42,982 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-09-13 16:38:42,982 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-09-13 16:38:45,238 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/asm-6.0.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/asm-5.0.3.jar
+2019-09-13 16:38:45,238 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/commons-beanutils-1.8.3.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/commons-beanutils-1.7.0.jar
+2019-09-13 16:38:45,238 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/dnsjava-2.1.8.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/dnsjava-2.1.7.jar
+2019-09-13 16:38:45,238 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/guava-19.0.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/guava-11.0.2.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/httpclient-4.5.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/httpclient-4.5.5.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/httpcore-4.4.9.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/httpcore-4.4.1.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/httpmime-4.5.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/httpmime-4.5.5.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/jmeter-plugins-cmn-jmeter-0.6.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/jmeter-plugins-cmn-jmeter-0.4.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/json-path-2.4.0.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/json-path-2.1.0.jar
+2019-09-13 16:38:45,239 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/4.0/libexec/lib/json-smart-2.3.jar and /usr/local/Cellar/jmeter/4.0/libexec/lib/json-smart-2.2.jar
+2019-09-13 16:38:45,272 INFO o.j.r.JARSourceHTTP: Found cached repo
+2019-09-13 16:38:45,637 WARN o.j.r.Plugin: Unable to load class: com.atlantbh.jmeter.plugins.oauth.OAuthSampler
+java.lang.NoClassDefFoundError: org/apache/jmeter/protocol/http/sampler/HTTPSampler2
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763) ~[?:1.8.0_181]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_181]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467) ~[?:1.8.0_181]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73) ~[?:1.8.0_181]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368) ~[?:1.8.0_181]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_181]
+	at org.jmeterplugins.repository.Plugin.getJARPath(Plugin.java:202) [jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.Plugin.detectInstalledPlugin(Plugin.java:108) [jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.Plugin.detectInstalled(Plugin.java:97) [jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.PluginManager.load(PluginManager.java:86) [jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuItem$1.run(PluginManagerMenuItem.java:41) [jmeter-plugins-manager-1.3.jar:?]
+Caused by: java.lang.ClassNotFoundException: org.apache.jmeter.protocol.http.sampler.HTTPSampler2
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_181]
+	... 16 more
+2019-09-13 16:38:45,657 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=Standard, jpgc-graphs-additional=Extras, jpgc-autostop=Extras, blazemeter-debugger=0.6, jpgc-sense=Standard, netflix-cassandra=0.2-SNAPSHOT, jpgc-cmd=Standard, jpgc-graphs-composite=Standard, jpgc-csl=Standard, jpgc-functions=Standard, custom-soap=1.3.3, jpgc-casutg=Standard, jpgc-dbmon=Extras, jpgc-directory-listing=0.3, jpgc-graphs-dist=Extras, jpgc-dummy=Standard, jmeter.backendlistener.elasticsearch=2.6.1, jpgc-filterresults=Standard, jpgc-ffw=Standard, jpgc-ggl=Extras, bzm-hls=1.3, jpgc-httpraw=Extras, jpgc-sts=Extras, bzm-http2=1.4, jpgc-hadoop=Hadoop, tilln-iso8583=1.0, jpgc-fifo=Standard, jpgc-jms=ExtrasLibs, jpgc-jmxmon=Extras, jmeter.pack-listener=1.7, jpgc-json=ExtrasLibs, jpgc-graphs-vs=Extras, kafkameter=0.2.0, jmeter.backendlistener.kafka=1.0.0, jpgc-lockfile=Extras, mqtt-sampler=0.0.1-SNAPSHOT, jpgc-mergeresults=Standard, jpgc-pde=Extras, bzm-parallel=0.9, jpgc-prmctl=Extras, jpgc-perfmon=Standard, jpgc-plugins-manager=1.3, bzm-rte=2.1.1, bzm-random-csv=0.6, jpgc-redis=ExtrasLibs, jpgc-rotating-listener=0.2, ssh-sampler=1.1.1-SNAPSHOT, tilln-sshmon=1.2, jpgc-webdriver=WebDriver, bzm-siebel=0.1.0-beta, jpgc-synthesis=Standard, jpgc-plancheck=Standard, jpgc-tst=Standard, jpgc-udp=Extras, jpgc-csvars=Extras, tilln-wssecurity=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.1, jpgc-wsc=Standard, jpgc-xml=Extras, jpgc-xmpp=1.5.1, jmeter-core=4.0, jmeter-ftp=4.0, jmeter-http=4.0, jmeter-jdbc=4.0, jmeter-jms=4.0, jmeter-junit=4.0, jmeter-java=4.0, jmeter-ldap=4.0, jmeter-mail=4.0, jmeter-mongodb=4.0, jmeter-native=4.0, jmeter-tcp=4.0, jmeter-components=4.0, jpgc-standard=2.0]
+2019-09-13 16:38:45,746 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jmeter.backendlistener.elasticsearch, websocket-samplers]
+2019-09-13 16:38:48,138 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-09-13 16:38:48,139 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /usr/local/Cellar/jmeter/4.0/libexec/bin/proxyserver.jks
+2019-09-13 16:38:48,179 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-13 16:38:48,180 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-13 16:38:48,180 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-13 16:38:48,180 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-13 16:38:48,180 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-09-13 16:38:48,180 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-09-13 16:38:48,220 WARN o.a.j.u.JMeterUtils: no icon for toolbar/19x19arrow-right-3.png
+2019-09-13 16:38:48,224 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-09-13 16:38:48,224 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-09-13 16:38:48,224 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-09-13 16:38:48,224 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-09-13 16:38:50,168 WARN o.a.j.g.u.MenuFactory: Configuration error, probably corrupt or missing third party library(jar)? Could not create class: kg.apc.jmeter.reporters.LoadosophiaUploaderGui.
+java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/PartSource
+	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.init(LoadosophiaUploaderGui.java:114) ~[JMeterPlugins-Standard.jar:?]
+	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.<init>(LoadosophiaUploaderGui.java:28) ~[JMeterPlugins-Standard.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_181]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_181]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_181]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_181]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_181]
+	at org.apache.jmeter.gui.util.MenuFactory.getGUIComponent(MenuFactory.java:174) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:141) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:106) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:92) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:155) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) [?:1.8.0_181]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_181]
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.httpclient.methods.multipart.PartSource
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_181]
+	... 29 more
+2019-09-13 16:38:51,690 INFO o.a.j.s.FileServer: Default base='/Users/pavelbairov/Documents/Projects/jmeter-docker'
+2019-09-13 16:38:51,743 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_qos]
+2019-09-13 16:38:51,743 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_most_once]
+2019-09-13 16:38:51,744 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_least_once]
+2019-09-13 16:38:51,744 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_exactly_once]
+2019-09-13 16:38:51,745 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_client_types]
+2019-09-13 16:38:51,745 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_blocking_client]
+2019-09-13 16:38:51,746 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_async_client]
+2019-09-13 16:38:51,746 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type]
+2019-09-13 16:38:51,746 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type_text]
+2019-09-13 16:38:51,746 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type_file]
+2019-09-13 16:38:51,753 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_qos]
+2019-09-13 16:38:51,755 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_most_once]
+2019-09-13 16:38:51,755 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_least_once]
+2019-09-13 16:38:51,756 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_exactly_once]
+2019-09-13 16:38:51,757 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_client_types]
+2019-09-13 16:38:51,757 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_blocking_client]
+2019-09-13 16:38:51,757 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_async_client]
+2019-09-13 16:45:15,531 INFO o.a.j.g.a.Load: Loading file: /Users/pavelbairov/Documents/Projects/jmeter-docker/suite/Tworkers_flat_cinfra_load.jmx
+2019-09-13 16:45:15,535 INFO o.a.j.s.FileServer: Set new base='/Users/pavelbairov/Documents/Projects/jmeter-docker/suite'
+2019-09-13 16:45:15,743 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-09-13 16:45:15,749 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-09-13 16:45:15,751 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2019-09-13 16:45:15,754 INFO o.a.j.s.SaveService: Loading file: /Users/pavelbairov/Documents/Projects/jmeter-docker/suite/Tworkers_flat_cinfra_load.jmx
+2019-09-13 16:45:16,071 WARN o.a.j.t.g.GenericTestBeanCustomizer: SlackNotification#channelId(java.lang.String) does not appear to have been configured
+2019-09-13 16:45:16,076 WARN o.a.j.t.g.GenericTestBeanCustomizer: SlackNotification#text(java.lang.String) does not appear to have been configured
+2019-09-13 16:45:16,078 WARN o.a.j.t.g.GenericTestBeanCustomizer: SlackNotification#token(java.lang.String) does not appear to have been configured
+2019-09-13 16:45:17,020 INFO o.a.j.s.FileServer: Set new base='/Users/pavelbairov/Documents/Projects/jmeter-docker/suite'
+2019-09-13 17:16:54,942 INFO o.a.j.g.a.Load: Loading file: /Users/pavelbairov/Documents/Projects/jmeter-docker/suite/sample.jmx
+2019-09-13 17:16:54,945 INFO o.a.j.s.FileServer: Set new base='/Users/pavelbairov/Documents/Projects/jmeter-docker/suite'
+2019-09-13 17:16:54,946 INFO o.a.j.s.SaveService: Loading file: /Users/pavelbairov/Documents/Projects/jmeter-docker/suite/sample.jmx
+2019-09-13 17:16:55,325 INFO o.a.j.s.FileServer: Set new base='/Users/pavelbairov/Documents/Projects/jmeter-docker/suite'
+2019-09-13 17:17:01,505 INFO o.a.j.s.SampleEvent: List of sample_variables: []
